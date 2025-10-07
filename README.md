@@ -12,6 +12,16 @@ Intellectual Property (IP), Licensing, and Liability considerations.
 All guidelines are academic and do not constitute legal advice. Legal
 interpretations may vary depending on circumstances and jurisdiction.
 
+## Structure
+
+```
+.
+├── doc
+│   ├── bucerius-2024-guideline-01-ip-rights.pdf
+│   ├── bucerius-2024-guideline-02-licensing.pdf
+│   └── bucerius-2024-guideline-03-liability.pdf
+```
+
 ## Guideline Series
 
 ### Guideline No. 1 — *IP Rights and Open Source Hardware*
@@ -79,7 +89,7 @@ limited.
 
 ```
 @misc{osh-guidelines-bucerius,
-  title        = {Open Source Hardware Guidelines},
+  title        = {Open Source Hardware Guidelines: IP, Licensing, and Liability},
   author       = {{Bucerius Law School Center for Transnational IP, Media and Technology Law and Policy (Hamburg)}},
   howpublished = {\url{https://github.com/new-production-institute/publication-open-source-hardware-legal-guidelines-bucerius}},
   year         = {2024},
